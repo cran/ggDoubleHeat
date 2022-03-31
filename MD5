@@ -1,6 +1,6 @@
-f18012a72965171937602745d0a197b7 *DESCRIPTION
+75d85903e030684b8afdab493a4b358d *DESCRIPTION
 37ca17bb02f7cbc8efbc08df40b72a04 *NAMESPACE
-8c146a5155b4cb27bbe7f920a1bc0e47 *NEWS.md
+17ebe85b23a07b91834409161ec95641 *NEWS.md
 dc2a029a144d6a42f8cd655d8f2f1093 *R/data.R
 2d9f70da6d538f54809bfc299aaccf8c *R/geom-heat-circle.R
 8ebc0aa3fca7dbfa2ca73ddf7eb96746 *R/geom-heat-grid.R
@@ -8,14 +8,10 @@ f192ca7490d80a499ed7d74186b2f605 *R/geom-heat-tri.R
 5d9c8b5872902226232b3cb32b9ecee5 *R/ggDoubleHeat.R
 2e121eec31fa7122390021dcf92e642c *R/remove-padding.R
 4fb45132ba24bc162ee406b2093a3cd9 *R/theme-options.R
-fc5f3bce40e5a003ead9af2637c10851 *README.md
-f5e8f251c43bf8d5d1e45bfc63f53098 *build/vignette.rds
+dbd37da00771a03c1408621d81b5697f *README.md
 f18b6d84d196d96865cfe39f264bb7a4 *data/pitts_emojis.RData
 56d9f733bd5862c9b044cbae1b85bf50 *data/pitts_tg.rda
 d760fe38c1030d83f7f4f93c001935bf *data/states_tg.rda
-85ec0a462385b6507dff04386a89be58 *inst/doc/introduction.R
-1f5e581c5ab6bf9af54ff0320aaafbbb *inst/doc/introduction.Rmd
-e2163ba73a8b53ec013e7c2c3f5b029c *inst/doc/introduction.html
 0c9ffdf1064cf47282e5890b984ef7c1 *man/figures/README-unnamed-chunk-2-1.png
 94607c0c4ea0981f54c777ff3e5e846b *man/figures/README-unnamed-chunk-3-1.png
 af456a943df5b1c728a7c16c0b5b2662 *man/figures/README-unnamed-chunk-4-1.png
@@ -28,4 +24,3 @@ a377305116654cafd923e9de220ca35a *man/ggDoubleHeat.Rd
 577e4dcea4156dac160704c7cf066843 *man/remove_padding.Rd
 a2e85d3a79aef39ecdbe2f7a81d43e62 *man/states_tg.Rd
 7558a2dcb36869b484f0919bbf47c7d7 *man/theme_heat.Rd
-1f5e581c5ab6bf9af54ff0320aaafbbb *vignettes/introduction.Rmd

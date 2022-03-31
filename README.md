@@ -1,6 +1,15 @@
 ggDoubleHeat
 ================
 
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/PursuitOfDataScience/ggDoubleHeat/workflows/R-CMD-check/badge.svg)](https://github.com/PursuitOfDataScience/ggDoubleHeat/actions)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ggDoubleHeat)](https://CRAN.R-project.org/package=ggDoubleHeat)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+<!-- badges: end -->
+
 The `ggDoubleHeat` package is a `ggplot2` extension that provides
 visualization for data from two different sources on a modified heat
 map. All functions from the package are named as `geom_heat_*()`. A
@@ -14,6 +23,14 @@ Please install the released version of `ggDoubleHeat` from CRAN with:
 
 ``` r
 install.packages("ggDoubleHeat")
+```
+
+Alternatively, you can install the latest development version from
+Github with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("PursuitOfDataScience/ggDoubleHeat")
 ```
 
 ## Usage
@@ -104,6 +121,3 @@ Note: `pitts_emojis` is the Emoji metadata built in `ggDoubleHeat`.
 Another thing worth noting is that there are some grids not having
 Emoji, and the reason is that there is no Emoji Unicode in the Twitter
 sample file.
-
-For more information about `ggDoubleHeat`, please refer to the package
-vignette for a comprehensive introduction.
